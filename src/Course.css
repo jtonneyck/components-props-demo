@@ -1,0 +1,11 @@
+.course {
+    width: 250px;
+    height: 250px;
+    margin: 5px;
+    margin: 20px;
+    background-color: blue;
+}
+
+.course p, .course h1 {
+    color: white;
+}

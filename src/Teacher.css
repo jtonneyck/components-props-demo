@@ -1,0 +1,12 @@
+.teacher {
+    width: 250px;
+    height: 250px;
+    margin: 5px;
+    margin: 20px;
+    background-color: red;
+}
+
+.teacher p, .student h1 {
+    color: white;
+    font-size: 36px;
+}
